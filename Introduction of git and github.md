@@ -13,7 +13,7 @@
 3. 本地设置完公钥的保存目录和密码，查看公钥：`cat ~/.ssh/id_rsa.pub`。
 4. 将公钥上传到git hub端。
 5. 下载：git clone ‘ssh’ ，ssh地址在git hub的Code里。
-6. 也可以图形界面，download zip。
+6. 也可以图形界面，download ZIP。
 
 
 ## 2. 本地和远程
